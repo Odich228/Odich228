@@ -15,4 +15,3 @@
 ## My streak
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Odich228&theme=tokyonight&hide_border=true&locale=ru" alt="GitHub Streak" /></a>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&height=500&lines=DevOps+beer+student" alt="Typing SVG" /></a>
