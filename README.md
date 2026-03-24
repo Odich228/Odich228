@@ -1,7 +1,9 @@
 <h1 align="center">Привет, я Илья</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Обычный студент обычного колледжа</h3>
+---
 
+## My stats
 <a href="https://github.com/anuraghazra/github-readme-stats" >
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Odich228&theme=tokyonight" />
 </a>
@@ -10,5 +12,8 @@
 </a>
 
 
+---
 
+My streak
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&height=500&lines=DevOps+beer+student" alt="Typing SVG" /></a>
