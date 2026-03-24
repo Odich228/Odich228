@@ -2,15 +2,9 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Обычный студент обычного колледжа</h3>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Odich228&show_icons=true&theme=tokyonight"
-    media="(prefers-color-scheme: tokyonight)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Odich228&show_icons=true"
-    media="(prefers-color-scheme: tokyonight), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Odich228&show_icons=true" />
-</picture>
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
