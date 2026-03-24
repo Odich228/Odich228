@@ -8,3 +8,4 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Odich228&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
 </a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=DevOps+science+student)](https://git.io/typing-svg)
