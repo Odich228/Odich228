@@ -10,8 +10,5 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Odich228&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
 </a>
 
-
-
 ## My streak
-
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Odich228&theme=tokyonight&hide_border=true&locale=ru" alt="GitHub Streak" /></a>
