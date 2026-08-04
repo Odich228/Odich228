@@ -18,7 +18,7 @@
 ### 🛠️ Технологии и инструменты
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=bash,python,docker,ansible,linux,git,nginx,ubuntu&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=bash,python,docker,ansible,linux,git,nginx,ubuntu,arch,debian,github,gmail,grafana,vim,powershell,vscode,vscodium,windows&theme=dark" />
 </p>
 
 ---
