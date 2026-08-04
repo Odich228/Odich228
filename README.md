@@ -25,10 +25,7 @@
 
 ### 📊 GitHub статистика
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Odich228&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Odich228&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<p align="center"> <img src="https://raw.githubusercontent.com/Odich228/Odich228/output/profile-summary-card-output/tokyonight/0-profile-details.svg" /> </p> <p align="center"> <img src="https://raw.githubusercontent.com/Odich228/Odich228/output/profile-summary-card-output/tokyonight/1-repos-per-language.svg" /> <img src="https://raw.githubusercontent.com/Odich228/Odich228/output/profile-summary-card-output/tokyonight/2-most-commit-language.svg" /> </p> <p align="center"> <img src="https://raw.githubusercontent.com/Odich228/Odich228/output/profile-summary-card-output/tokyonight/3-stats.svg" /> </p>
 
 ---
 
@@ -45,9 +42,7 @@
 
 ### 📈 Счётчик визитов
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Odich228&label=Просмотры+профиля&color=2E9EF7&style=flat" />
-</p>
+<p align="center"> <img src="https://visitor-badge.laobi.icu/badge?page_id=Odich228.Odich228&left_color=2E9EF7&right_color=grey" /> </p>
 
 ---
 
