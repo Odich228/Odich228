@@ -1,8 +1,5 @@
-<h1 align="center">Привет, я Odich228 👋</h1>
-<h3 align="center">Системный администратор | 4 курс | Автоматизация и инфраструктура</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Linux+%7C+Bash+%7C+Docker;Automating+infrastructure+with+Ansible;Учусь+и+расту+каждый+день+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2E9EF7&height=180&section=header&text=Привет,%20я%20Odich228&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Системный%20администратор%20%7C%204%20курс%20%7C%20Автоматизация%20и%20инфраструктура&descAlignY=58&descSize=18" />
 </p>
 
 ---
@@ -21,17 +18,7 @@
 ### 🛠️ Технологии и инструменты
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=bash,python,docker,ansible,linux,git,nginx,ubuntu&theme=dark" />
 </p>
 
 ---
@@ -43,31 +30,17 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Odich228&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Odich228&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Odich228&theme=tokyo-night&hide_border=true" />
-</p>
-
 ---
 
 ### 🐍 Активность за неделю (contribution snake)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Odich228/Odich228/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Odich228/Odich228/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Odich228/Odich228/output/github-contribution-grid-snake.svg" />
+  <img align="center" alt="snake animation" src="https://raw.githubusercontent.com/Odich228/Odich228/output/github-contribution-grid-snake.svg" />
+</picture>
 
-> ⚠️ Эта анимация требует настройки через GitHub Actions — инструкция ниже.
-
----
-
-### 🏆 Достижения профиля
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Odich228&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
+> ⚠️ Настраивается через `snake.yml` в GitHub Actions (файл отправлял ранее).
 
 ---
 
