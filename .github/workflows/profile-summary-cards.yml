@@ -1,0 +1,24 @@
+name: Generate Profile Summary Cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # раз в сутки
+  workflow_dispatch: {} # ручной запуск из вкладки Actions
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Generate GitHub profile summary cards
+        uses: vn7n24fzkq5skjw/github-profile-summary-cards@release
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          user: Odich228
+          theme: tokyonight
+          committer_branch: output
+          card_width: 500
