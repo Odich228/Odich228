@@ -40,7 +40,6 @@
   <img align="center" alt="snake animation" src="https://raw.githubusercontent.com/Odich228/Odich228/output/github-contribution-grid-snake.svg" />
 </picture>
 
-> ⚠️ Настраивается через `snake.yml` в GitHub Actions (файл отправлял ранее).
 
 ---
 
